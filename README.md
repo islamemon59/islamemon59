@@ -2,7 +2,7 @@
 
 <!-- 🖼️ Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/8nj5R7tS/IMG-20241216-073347-Bokeh.jpg" alt="Emon Hossain Banner" width="100%" />
+  <img src="" alt="Emon Hossain Banner" width="100%" />
 </p>
 
 <!-- 👋 Intro -->
