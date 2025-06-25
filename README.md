@@ -4,7 +4,6 @@
 </p>
 
 <!-- 👋 Intro -->
-<h1 align="center">Emon Hossain</h1>
 <h3 align="center">💻 MERN Stack Developer | 🇧🇩 Based in Bangladesh</h3>
 
 ---
