@@ -1,4 +1,3 @@
-<!-- GitHub Profile README for Emon Hossain -->
 
 <p align="center">
   <img src="https://i.ibb.co/8nj5R7t/IMG-20241216-073347-Bokeh.jpg" alt="Emon Hossain Banner" width="100%" />
