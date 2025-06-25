@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner Image -->
 <p align="center">
-  <img src="" alt="Emon Hossain Banner" width="100%" />
+  <img src="https://i.ibb.co/vv6j22WF/Whats-App-Image-2025-06-25-at-16-18-00-d9d350a3.jpg" alt="Emon Hossain Banner" width="100%" />
 </p>
 
 <!-- 👋 Intro -->
