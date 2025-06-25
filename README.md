@@ -1,68 +1,77 @@
 <!-- GitHub Profile README for Emon Hossain -->
 
-<h1 align="center">Hi there, I'm Emon Hossain 👋</h1>
-<p align="center">💻 MERN Stack Developer | 🚀 Passionate About Building Web Apps | 🌐 Based in Bangladesh</p>
+<p align="center">
+  <img src="https://i.ibb.co/8nj5R7t/IMG-20241216-073347-Bokeh.jpg" alt="Emon Hossain Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm Emon Hossain</h1>
+<p align="center">💻 MERN Stack Developer | 🔐 Firebase & Stripe Integration | 🌱 Based in Bangladesh</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Career Code** and a **Parcel Delivery Web App**
-- 🌱 Currently learning: **Advanced Backend, Stripe API, Clean Architecture**
-- 🛠️ Tech Stack: `MongoDB`, `Express.js`, `React.js`, `Node.js`
-- 💬 Ask me about: Firebase Auth, React Hook Form, REST APIs
-- 📫 Reach me at: **[youremail@email.com](mailto:youremail@email.com)**
+- 🚀 I’m currently working on production-grade delivery & service platforms  
+- 🌱 Learning advanced backend logic, Stripe payment, and MongoDB aggregation  
+- 💡 Building clean UI with `Tailwind CSS` and `DaisyUI`  
+- 🧠 Deep focus on real-time form validation, route protection & Firebase auth  
+- 📫 Email: [youremail@email.com](mailto:youremail@email.com)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌟 Featured Projects
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A4FCF?style=flat&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+### 📦 [Parcel Delivery Website](https://github.com/emonhossain/parcel-delivery-client)
+A real-time parcel management platform with delivery cost calculation, Firebase Auth, and Stripe checkout.  
+Tech Used: `React`, `Node.js`, `MongoDB`, `Tailwind CSS`, `Stripe`, `SweetAlert2`
 
 ---
 
-## 🚀 Featured Projects
+### 🔧 [Service Provider App](https://github.com/emonhossain/service-provider-client)
+Multi-role service booking platform with admin control, dynamic routing, and Firebase authentication.  
+Tech Used: `React`, `Express.js`, `MongoDB`, `Firebase`, `JWT`, `React Router`
 
-### 🌐 [Career Code](https://github.com/emonhossain/career-code-client)
-> A platform for career guidance and job listings for fresh developers  
-`React` | `Firebase Auth` | `Express.js` | `MongoDB`
+---
 
-### 📦 [Parcel Delivery App](https://github.com/emonhossain/parcel-delivery-client)
-> A smart delivery management system with cost calculation and payment integration  
-`Stripe` | `React Hook Form` | `Tailwind` | `Node.js`
+### 🌱 [Plant Trees Platform](https://github.com/emonhossain/plant-trees)
+Green initiative platform that lets users track tree planting virtually, with user accounts and impact logs.  
+Tech Used: `React`, `Tailwind CSS`, `MongoDB`, `Firebase`, `Express`
 
-### 💳 [Stripe Integration Demo](https://github.com/emonhossain/stripe-demo)
-> Secure Stripe-based payment gateway  
-`Stripe` | `Express` | `MongoDB`
+---
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emonhossain&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emonhossain&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emonhossain&show_icons=true&theme=react" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emonhossain&theme=react" width="47%" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  🧡 *Thanks for visiting my profile! Feel free to check out my repositories and reach out if you want to collaborate.*
+  🧡 *Thanks for stopping by! Let's connect, collaborate, and create something amazing.*
 </p>
