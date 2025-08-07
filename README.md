@@ -4,48 +4,49 @@
 </p>
 
 <!-- 👋 Intro -->
+<h2 align="center">Hi, I'm Emon Hossain 👋</h2>
 <h3 align="center">💻 MERN Stack Developer | 🇧🇩 Based in Bangladesh</h3>
 
 ---
 
 ## 🧠 About Me
 
-I'm Emon Hossain, a MERN Stack Developer from Bangladesh. I build responsive web apps using React, Node.js, MongoDB, and Firebase.  
-Currently focused on secure Stripe integration and dynamic API development.
+I'm a passionate and detail-oriented **MERN Stack Developer** from Bangladesh. I specialize in building responsive full-stack web applications using modern technologies like React, Node.js, MongoDB, and Firebase.
+
+My development approach focuses on clean code, reusability, and performance. I'm always eager to learn new tools and bring ideas to life through code.
 
 ---
 
-## 🔥 What I’m Doing Now
+## 🔥 What I’m Working On
 
-- 🚀 Building a **Parcel Delivery Website** with dynamic delivery cost and Stripe payment  
-- 🔧 Exploring advanced backend features like **MongoDB aggregation**  
-- 🌱 Learning **authentication using Firebase and JWT**  
-- 🧪 Developing a **Service Provider** app for real-time bookings  
-- 🌿 Contributing to a **Plant Trees** platform to raise awareness for reforestation  
+- 📦 A **Parcel Delivery Website** with dynamic pricing and Stripe integration  
+- 🛠️ A **Service Provider Platform** with role-based dashboards and real-time updates  
+- 🌿 A **Plant Trees App** to spread environmental awareness  
+- 🔐 Learning advanced **Firebase + JWT Auth** and **MongoDB aggregation pipelines**
 
 ---
 
 ## 🧰 Tech Stack
 
-### ⚙️ Frontend
-<p>
+<p align="center"><strong>⚙️ Frontend</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### 🛠️ Backend
-<p>
+<p align="center"><strong>🛠️ Backend</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### 🔐 Authentication & APIs
-<p>
+<p align="center"><strong>🔐 Auth & APIs</strong></p>
+<p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
 </p>
 
-### 🧪 Tools & Platforms
-<p>
+<p align="center"><strong>🧪 Tools & Platforms</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
@@ -53,23 +54,25 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamemon59&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=islamemon59&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamemon59&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamemon59&theme=tokyonight&utcOffset=+6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=islamemon59&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamemon59&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamemon59&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-- 📦 **Parcel Delivery Website**  
+- 🚚 **Parcel Delivery Website**  
   [Client](https://github.com/islamemon59/parcel-delivery-client) | [Server](https://github.com/islamemon59/parcel-delivery-server)
 
-- 🛠️ **Service Provider Platform** (HelpNest)  
+- 🧰 **Service Provider Platform** (HelpNest)  
   [Live Site](https://help-nest-service-provider.netlify.app/) | [Client](https://github.com/islamemon59/service-provider-client-side) | [Server](https://github.com/islamemon59/service-provider-server-side)
 
 - 🌱 **Plant Trees App** (GreenRoots)  
@@ -102,4 +105,4 @@ Shanto-Mariam University of Creative Technology (2023 – 2026)
 
 ---
 
-<p align="center">🔥 Thank you for visiting my GitHub profile! Let’s build something amazing together.</p>
+<p align="center">🔥 Thanks for visiting my profile! Let's collaborate and build something impactful together.</p>
