@@ -57,17 +57,24 @@ My development approach focuses on clean code, reusability, and performance. I'm
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=islamemon59&theme=gruvbox&no-bg=true&margin-w=15&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=islamemon59&theme=monokai&margin-w=10&no-bg=true&column=6" />
 </p>
 
 ---
 
-## 📊 Activity Breakdown
+## 🚀 Contribution Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=islamemon59&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=islamemon59&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamemon59&theme=dracula&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📈 GitHub Stats (Clean Layout)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=islamemon59&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=islamemon59&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -75,9 +82,8 @@ My development approach focuses on clean code, reusability, and performance. I'm
 ## 📘 Languages I Use Most
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamemon59&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamemon59&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
-
 
 ---
 
