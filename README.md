@@ -25,31 +25,69 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🧰 Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
+### ⚙️ Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-  <!-- Backend -->
+</p>
+
+### 🛠️ Backend
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <!-- Extra Libraries -->
+</p>
+
+### 🔐 Authentication & APIs
+<p>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white" />
+</p>
+
+### 🧪 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=islamemon59&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamemon59&theme=react" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamemon59&layout=compact&theme=react" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamemon59&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=islamemon59&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamemon59&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamemon59&theme=tokyonight&utcOffset=+6" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- 📦 **Parcel Delivery Website**  
+  [Client](https://github.com/islamemon59/parcel-delivery-client) | [Server](https://github.com/islamemon59/parcel-delivery-server)
+
+- 🛠️ **Service Provider Platform** (HelpNest)  
+  [Live Site](https://help-nest-service-provider.netlify.app/) | [Client](https://github.com/islamemon59/service-provider-client-side) | [Server](https://github.com/islamemon59/service-provider-server-side)
+
+- 🌱 **Plant Trees App** (GreenRoots)  
+  [Live Site](https://plant-trees-with-green-roots.netlify.app/) | [Client](https://github.com/islamemon59/plant-tree-client-side) | [Server](https://github.com/islamemon59/plant-tree-server-side)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Arts in English**  
+Shanto-Mariam University of Creative Technology (2023 – 2026)
+
+---
+
+## 🌍 Languages
+
+- 🇧🇩 Bangla — Native  
+- 🇬🇧 English — Intermediate
 
 ---
 
@@ -64,4 +102,4 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ---
 
-<p align="center">🔥 Thank you for visiting my GitHub profile! Let’s build something great together.</p>
+<p align="center">🔥 Thank you for visiting my GitHub profile! Let’s build something amazing together.</p>
