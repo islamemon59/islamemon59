@@ -88,8 +88,8 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ## 🌟 Featured Projects
 
-- 🚚 **Parcel Delivery Website**  
-  [Client](https://github.com/islamemon59/parcel-delivery-client) | [Server](https://github.com/islamemon59/parcel-delivery-server)
+- 👥 **Employee Management System**(StaffHub)
+[Live Site](https://staff-hub-employee-management.netlify.app/) | [Client](https://github.com/islamemon59/parcel-delivery-client) | [Server](https://github.com/islamemon59/parcel-delivery-server)
 
 - 🧰 **Service Provider Platform** (HelpNest)  
   [Live Site](https://help-nest-service-provider.netlify.app/) | [Client](https://github.com/islamemon59/service-provider-client-side) | [Server](https://github.com/islamemon59/service-provider-server-side)
