@@ -11,9 +11,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate and detail-oriented **MERN Stack Developer** from Bangladesh. I specialize in building responsive full-stack web applications using modern technologies like React, Node.js, MongoDB, and Firebase.
-
-My development approach focuses on clean code, reusability, and performance. I'm always eager to learn new tools and bring ideas to life through code.
+I'm Emon Hossain, a MERN Stack Developer from Bangladesh. I build responsive web apps using React, Node.js, MongoDB, and Firebase.  
+Currently focused on secure Stripe integration and dynamic API development.
 
 ---
 
