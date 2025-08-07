@@ -132,6 +132,10 @@ Shanto-Mariam University of Creative Technology (2023 – 2026)
 <a href="https://github.com/islamemon59">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://portfolio-of-emon-hossain.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+`
 
 
 </p>
