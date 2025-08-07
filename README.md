@@ -86,18 +86,26 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-- 👥 **Employee Management System**(StaffHub)
-[Live Site](https://staff-hub-employee-management.netlify.app/) | [Client](https://github.com/islamemon59/parcel-delivery-client) | [Server](https://github.com/islamemon59/parcel-delivery-server)
-
-- 🧰 **Service Provider Platform** (HelpNest)  
-  [Live Site](https://help-nest-service-provider.netlify.app/) | [Client](https://github.com/islamemon59/service-provider-client-side) | [Server](https://github.com/islamemon59/service-provider-server-side)
-
-- 🌱 **Plant Trees App** (GreenRoots)  
-  [Live Site](https://plant-trees-with-green-roots.netlify.app/) | [Client](https://github.com/islamemon59/plant-tree-client-side) | [Server](https://github.com/islamemon59/plant-tree-server-side)
+### 👥 Employee Management System (StaffHub)  
+- **Live Site:** [staff-hub-employee-management.netlify.app](https://staff-hub-employee-management.netlify.app/)  
+- **Client Repo:** [parcel-delivery-client](https://github.com/islamemon59/parcel-delivery-client)  
+- **Server Repo:** [parcel-delivery-server](https://github.com/islamemon59/parcel-delivery-server)  
 
 ---
+
+### 🧰 Service Provider Platform (HelpNest)  
+- **Live Site:** [help-nest-service-provider.netlify.app](https://help-nest-service-provider.netlify.app/)  
+- **Client Repo:** [service-provider-client-side](https://github.com/islamemon59/service-provider-client-side)  
+- **Server Repo:** [service-provider-server-side](https://github.com/islamemon59/service-provider-server-side)  
+
+---
+
+### 🌱 Plant Trees App (GreenRoots)  
+- **Live Site:** [plant-trees-with-green-roots.netlify.app](https://plant-trees-with-green-roots.netlify.app/)  
+- **Client Repo:** [plant-tree-client-side](https://github.com/islamemon59/plant-tree-client-side)  
+- **Server Repo:** [plant-tree-server-side](https://github.com/islamemon59/plant-tree-server-side)  
 
 ## 🎓 Education
 
