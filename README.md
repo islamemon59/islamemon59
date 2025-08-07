@@ -129,8 +129,6 @@ Shanto-Mariam University of Creative Technology (2023 – 2026)
   <a href="https://www.linkedin.com/in/emonislam59">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-  <a href="https://github.com/islamemon59"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
