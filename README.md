@@ -90,8 +90,8 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ### 👥 Employee Management System (StaffHub)  
 - **Live Site:** [staff-hub-employee-management.netlify.app](https://staff-hub-employee-management.netlify.app/)  
-- **Client Repo:** [parcel-delivery-client](https://github.com/islamemon59/parcel-delivery-client)  
-- **Server Repo:** [parcel-delivery-server](https://github.com/islamemon59/parcel-delivery-server)  
+- **Client Repo:** [employee-management-client](https://github.com/islamemon59/parcel-delivery-client)  
+- **Server Repo:** [employee-management-server](https://github.com/islamemon59/parcel-delivery-server)  
 
 ---
 
