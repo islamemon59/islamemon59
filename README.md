@@ -69,7 +69,7 @@ Currently focused on secure Stripe integration and dynamic API development.
 
 ---
 
-## 📈 GitHub Stats (Clean Layout)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=islamemon59&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
