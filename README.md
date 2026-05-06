@@ -1,302 +1,242 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  BANNER  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=1&section=header" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:0D2137,100:0D1117&text=Emon%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descColor=58a6ff&descSize=20&descAlignY=65&stroke=58a6ff&strokeWidth=1" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=38&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&height=60&lines=Emon+Hossain" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=400&size=17&pause=1000&color=10b981&center=true&vCenter=true&width=600&height=36&lines=Full+Stack+Developer+%7C+React+%2B+Next.js+%2B+Node.js;TypeScript+%7C+PostgreSQL+%7C+Docker+%7C+Prisma;Building+scalable+web+products+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Prisma" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:islamemon59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=flat-square&logo=gmail&logoColor=10b981&label=islamemon59" height="26"/>
-  </a>
-  &ensp;
-  <a href="https://www.linkedin.com/in/emonislam59">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=10b981&label=emonislam59" height="26"/>
-  </a>
-  &ensp;
-  <a href="https://portfolio-of-emon-hossain.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=netlify&logoColor=10b981&label=Visit" height="26"/>
-  </a>
-  &ensp;
-  <a href="https://github.com/islamemon59">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=10b981&label=islamemon59" height="26"/>
-  </a>
-  &ensp;
-  <img src="https://komarev.com/ghpvc/?username=islamemon59&style=flat-square&color=10b981&label=visitors&labelColor=0D1117" height="26"/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-islamemon59%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0D1117)](mailto:islamemon59@gmail.com)
+&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emonislam59-0D1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0D1117)](https://www.linkedin.com/in/emonislam59)
+&ensp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=flat-square&logo=netlify&logoColor=58a6ff&labelColor=0D1117)](https://portfolio-of-emon-hossain.netlify.app/)
+&ensp;
+[![Profile Views](https://komarev.com/ghpvc/?username=islamemon59&style=flat-square&color=58a6ff&label=views&labelColor=0D1117)](https://github.com/islamemon59)
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░ -->
 
-<img align="right" width="37%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamemon59&theme=github_dark" />
+<img align="right" width="36%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=islamemon59&theme=github_dark" />
 
-## `$ whoami`
+## About Me
 
-Full Stack Developer from **Bangladesh** focused on building clean, production-grade web products. My stack spans the entire development cycle — from React and Next.js frontends to Node.js APIs, relational and document databases, and containerized deployments.
+Full Stack Developer from **Bangladesh** — I build clean, scalable web products from the ground up. My work spans interactive React & Next.js frontends, Node.js REST APIs, relational and document databases, and containerized deployments with Docker.
 
-I care deeply about code quality, developer experience, and shipping things that actually work at scale.
+I'm not just collecting frameworks. I use **TypeScript** for everything serious, **Prisma** for type-safe database access, **PostgreSQL** and **MySQL** for relational data, and **shadcn/ui** for production-ready component systems.
 
-<table>
-  <tr>
-    <td>🔭 Building</td>
-    <td>Parcel delivery system — Stripe, dynamic pricing, role auth</td>
-  </tr>
-  <tr>
-    <td>🧱 Deepening</td>
-    <td>Prisma ORM + PostgreSQL & MySQL in production</td>
-  </tr>
-  <tr>
-    <td>🐳 Exploring</td>
-    <td>Docker, containerized deployments, CI/CD pipelines</td>
-  </tr>
-  <tr>
-    <td>💡 Passionate about</td>
-    <td>Clean architecture, great DX, impactful products</td>
-  </tr>
-  <tr>
-    <td>🎓 Education</td>
-    <td>BA English — Shanto-Mariam University (2023–2026)</td>
-  </tr>
-  <tr>
-    <td>🌍 Languages</td>
-    <td>Bangla (native) · English (intermediate)</td>
-  </tr>
-  <tr>
-    <td>📬 Reach me at</td>
-    <td>islamemon59@gmail.com</td>
-  </tr>
-</table>
+Currently deep in building a full-scale parcel delivery platform with dynamic pricing, Stripe payments, and live tracking — architected with Next.js + TypeScript + Prisma + PostgreSQL.
+
+| | |
+|---|---|
+| **Location** | Dhaka, Bangladesh 🇧🇩 |
+| **Education** | BA English — Shanto-Mariam University (2023–2026) |
+| **Languages** | Bangla (native) · English (intermediate) |
+| **Available for** | Freelance · Collaboration · Open Source |
+| **Contact** | islamemon59@gmail.com |
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 WHAT I'M BUILDING NOW                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░░░ -->
 
-## `$ git log --oneline` &nbsp;— What I'm Working On
-
-```ts
-const currentFocus = {
-  project  : "🚚 ZipDrop — Parcel Delivery Platform",
-  stack    : ["Next.js", "TypeScript", "Node.js", "MongoDB", "Stripe"],
-  features : ["Dynamic pricing engine", "Role-based auth (JWT)", "Live tracking"],
-  status   : "🟢 Active development",
-};
-
-const learning = {
-  orm      : "Prisma with PostgreSQL & MySQL",
-  devops   : "Docker — containerizing Node.js + Next.js apps",
-  patterns : "Clean architecture, service layers, repository pattern",
-};
-
-const openTo = ["Collaboration", "Freelance projects", "Open source"];
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `$ cat tech-stack.json`
-
-**Language & Core**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-&ensp;
-<img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" height="48"/>
-
-**Backend & Runtime**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-**Databases & ORM**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark" />
-
-**Auth · Payments · Data Layer**
-
-<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=10b981" height="46"/>
-&ensp;
-<img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=10b981" height="46"/>
-&ensp;
-<img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=10b981" height="46"/>
-
-**DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark" />
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `$ ls -la ./projects`
+## Tech Stack
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ StaffHub
-**Employee Management System**
-
-Role-based dashboards for HR teams. Handles payroll tracking, employee records, salary disbursement with Stripe, and admin/manager/employee role separation.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=10b981)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=10b981)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=10b981)
-![Stripe](https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=10b981)
-![JWT](https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=10b981)
-
-[🔗 Live Demo](https://staff-hub-employee-management.netlify.app/) · [Client](https://github.com/islamemon59/parcel-delivery-client) · [Server](https://github.com/islamemon59/parcel-delivery-server)
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ HelpNest
-**Service Provider Platform**
-
-Marketplace connecting service seekers with providers. Features real-time status updates, service booking, role-based access, and a verified provider system.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=10b981)
-![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=10b981)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=10b981)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=10b981)
-![TanStack](https://img.shields.io/badge/TanStack-0D1117?style=flat-square&logo=reactquery&logoColor=10b981)
-
-[🔗 Live Demo](https://help-nest-service-provider.netlify.app/) · [Client](https://github.com/islamemon59/service-provider-client-side) · [Server](https://github.com/islamemon59/service-provider-server-side)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ▸ GreenRoots
-**Plant Trees Community App**
-
-Environmental awareness platform where users track, pledge, and participate in community tree-planting drives. Includes location-based planting records.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=10b981)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=10b981)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=10b981)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=10b981)
-
-[🔗 Live Demo](https://plant-trees-with-green-roots.netlify.app/) · [Client](https://github.com/islamemon59/plant-tree-client-side) · [Server](https://github.com/islamemon59/plant-tree-server-side)
-
-</td>
-<td width="50%" valign="top">
-
-### ▸ Next Up
-**In Progress**
-
-🚧 ZipDrop — A full-scale parcel delivery system with dynamic pricing, live delivery tracking, Stripe payments, and a multi-role dashboard (Admin · Rider · Customer).
-
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=10b981)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=10b981)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=10b981)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=10b981)
-
-*Coming soon...*
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="130">
+      <b>Languages</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Frontend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6" />
+      &ensp;
+      <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>UI Libraries</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=materialui,bootstrap&theme=dark&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Backend</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Databases</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>DevOps & Tools</b>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Auth & Payments</b>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff" height="48"/>
+      &ensp;
+      <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="48"/>
+      &ensp;
+      <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=58a6ff" height="48"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  PROJECTS  ░░░░░░░░░░░░░░░░░░ -->
 
-## `$ gh stats`
+## Featured Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>StaffHub &nbsp;<a href="https://staff-hub-employee-management.netlify.app/"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=netlify&logoColor=3fb950" height="18"/></a></h3>
+      <sub>Employee Management System</sub>
+      <br/><br/>
+      A complete HR platform with role-based access — Admin, Manager, and Employee dashboards. Handles salary management, payroll disbursement via Stripe, leave tracking, and employee records.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase&theme=dark" height="28"/>
+      &ensp;
+      <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="28"/>
+      <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff" height="28"/>
+      <br/><br/>
+      <a href="https://github.com/islamemon59/parcel-delivery-client">Client Repo</a> &nbsp;·&nbsp;
+      <a href="https://github.com/islamemon59/parcel-delivery-server">Server Repo</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>HelpNest &nbsp;<a href="https://help-nest-service-provider.netlify.app/"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=netlify&logoColor=3fb950" height="18"/></a></h3>
+      <sub>Service Provider Marketplace</sub>
+      <br/><br/>
+      Two-sided marketplace connecting service providers with customers. Features real-time booking status, provider verification, service categories, and a clean role-based dashboard system.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,express,mongodb,firebase&theme=dark" height="28"/>
+      &ensp;
+      <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=58a6ff" height="28"/>
+      <br/><br/>
+      <a href="https://github.com/islamemon59/service-provider-client-side">Client Repo</a> &nbsp;·&nbsp;
+      <a href="https://github.com/islamemon59/service-provider-server-side">Server Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>GreenRoots &nbsp;<a href="https://plant-trees-with-green-roots.netlify.app/"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=netlify&logoColor=3fb950" height="18"/></a></h3>
+      <sub>Community Plant Trees App</sub>
+      <br/><br/>
+      Environmental awareness platform where users log planted trees, participate in community planting drives, and track environmental impact. Includes location-tagged planting records and campaign pages.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase&theme=dark" height="28"/>
+      <br/><br/>
+      <a href="https://github.com/islamemon59/plant-tree-client-side">Client Repo</a> &nbsp;·&nbsp;
+      <a href="https://github.com/islamemon59/plant-tree-server-side">Server Repo</a>
+    </td>
+    <td valign="top">
+      <h3>ZipDrop &nbsp;<img src="https://img.shields.io/badge/In_Progress-0D1117?style=flat-square&logo=github&logoColor=f0883e" height="18"/></h3>
+      <sub>Parcel Delivery Platform</sub>
+      <br/><br/>
+      Full-scale parcel delivery system — dynamic pricing engine, live tracking, Stripe payments, and a multi-role dashboard for Admins, Riders, and Customers. Built with a modern TypeScript-first stack.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,postgresql,prisma&theme=dark" height="28"/>
+      &ensp;
+      <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="28"/>
+      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=58a6ff" height="28"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░  STATS  ░░░░░░░░░░░░░░░░░░ -->
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamemon59&theme=github_dark" width="100%" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamemon59&theme=github_dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=islamemon59&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=islamemon59&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamemon59&theme=github_dark&utcOffset=6" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=islamemon59&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamemon59&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=islamemon59&theme=github_dark" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamemon59&theme=github_dark&utcOffset=6" width="24%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=islamemon59&theme=dark&hide_border=true&background=0D1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=10b981&dates=6e7681" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=islamemon59&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Overview" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=islamemon59&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" width="48%" />
 </div>
 
 ---
 
-## `$ git log --graph --all`
+<!-- ░░░░░░░░░░░░░░░░░░  ACTIVITY  ░░░░░░░░░░░░░░░░░░ -->
+
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamemon59&bg_color=0D1117&color=10b981&line=10b981&point=FFFFFF&area=true&area_color=10b981&hide_border=true&radius=4&custom_title=Contribution+Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamemon59&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=4&custom_title=Contributions+Over+Time" width="100%" />
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE (needs GitHub Actions)        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
 
-## `$ watch contributions`
+## Achievements
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islamemon59/islamemon59/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/islamemon59/islamemon59/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/islamemon59/islamemon59/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TROPHIES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## `$ achievements --all`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=islamemon59&theme=darkhub&margin-w=10&no-bg=true&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=islamemon59&theme=darkhub&margin-w=12&margin-h=12&no-bg=true&column=7&no-frame=true" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <i>Open to collaborations, freelance projects, and interesting ideas.</i>
+  <sup>Open to collaboration, freelance work, and good conversations about code.</sup>
   <br/>
-  <a href="mailto:islamemon59@gmail.com"><b>islamemon59@gmail.com</b></a>
+  <a href="mailto:islamemon59@gmail.com"><sup>islamemon59@gmail.com</sup></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:0D1117,50:0D2137,100:0D1117&section=footer&stroke=58a6ff&strokeWidth=1&reversal=true" />
 </div>
