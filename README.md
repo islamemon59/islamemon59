@@ -1,32 +1,21 @@
 <!-- ░░░░░░░░░░░░░░░░░░  BANNER  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=6&section=header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1f6feb,100:0D1117&height=190&section=header&text=EMON%20HOSSAIN&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descSize=15&descAlignY=58" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-socialify.git.ci/islamemon59/islamemon59?description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Dark&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fislamemon59" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=52&lines=Emon+Hossain" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1200&color=58a6ff&center=true&vCenter=true&width=640&height=28&lines=%3C%2F%3E+Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Docker" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=%3C%2F%3E+Building+clean+and+scalable+web+products;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Prisma;Frontend+precision+%2B+Backend+architecture" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-islamemon59%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0D1117)](mailto:islamemon59@gmail.com)
-&ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emonislam59-0D1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0D1117)](https://www.linkedin.com/in/emonislam59)
-&ensp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=flat-square&logo=netlify&logoColor=58a6ff&labelColor=0D1117)](https://portfolio-of-emon-hossain.netlify.app/)
-&ensp;
-[![Profile Views](https://komarev.com/ghpvc/?username=islamemon59&style=flat-square&color=58a6ff&label=views&labelColor=0D1117)](https://github.com/islamemon59)
+[![Gmail](https://img.shields.io/badge/Gmail-islamemon59%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0D1117)](mailto:islamemon59@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emonislam59-0D1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0D1117)](https://www.linkedin.com/in/emonislam59)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=netlify&logoColor=58a6ff&labelColor=0D1117)](https://portfolio-of-emon-hossain.netlify.app/)
+[![Views](https://komarev.com/ghpvc/?username=islamemon59&style=for-the-badge&color=58a6ff&label=Profile+Views&labelColor=0D1117)](https://github.com/islamemon59)
 
 </div>
 
