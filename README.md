@@ -1,11 +1,31 @@
-<!-- ░░░░░░░░░░░░░░░░░░  CLEAN PREMIUM DEV BANNER  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  PREMIUM ORGANIZED DEV BANNER  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:111827,75:1F6FEB,100:58A6FF&section=header&text=EMON%20HOSSAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descSize=15&descAlignY=58&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,35:111827,70:1F6FEB,100:58A6FF&section=header&text=EMON%20HOSSAIN&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Modern%20Web%20Experiences&descSize=16&descAlignY=58&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=%3E+Building+clean+and+scalable+web+products;%3E+Frontend+precision+%2B+Backend+architecture;%3E+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Prisma" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=920&height=48&lines=%3E+Crafting+clean+and+scalable+web+applications;%3E+Frontend+precision+%2B+Backend+architecture;%3E+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Prisma" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### Tech Toolbox
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,postgresql,mongodb,mysql,prisma,docker,git,github,vscode&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code-Clean%20%26%20Maintainable-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Speciality-Modern%20Web%20Apps-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=0D1117" />
+
 </div>
 
 <br/>
@@ -20,8 +40,6 @@
 </div>
 
 <br/>
-
----
 
 ---
 
