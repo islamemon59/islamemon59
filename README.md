@@ -51,70 +51,72 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
 
 ## Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="left" width="145">
-      <code>// Languages</code>
+    <td align="center" width="180">
+      <strong>Languages</strong>
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=8" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <code>// Frontend</code>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=8" />
-      &ensp;
-      <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" height="48"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
     </td>
   </tr>
+
   <tr>
-    <td align="left">
-      <code>// UI Libs</code>
+    <td align="center">
+      <strong>Frontend</strong>
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=materialui,bootstrap&theme=dark&perline=8" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=58a6ff" />
     </td>
   </tr>
+
   <tr>
-    <td align="left">
-      <code>// Backend</code>
+    <td align="center">
+      <strong>UI Libraries</strong>
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=8" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=materialui,bootstrap&theme=dark" />
     </td>
   </tr>
+
   <tr>
-    <td align="left">
-      <code>// Databases</code>
+    <td align="center">
+      <strong>Backend</strong>
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark&perline=8" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58a6ff" />
     </td>
   </tr>
+
   <tr>
-    <td align="left">
-      <code>// DevOps</code>
+    <td align="center">
+      <strong>Databases</strong>
     </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark&perline=8" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark" />
     </td>
   </tr>
+
   <tr>
-    <td align="left">
-      <code>// Auth & Pay</code>
+    <td align="center">
+      <strong>DevOps & Tools</strong>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff" height="48"/>
-      &ensp;
-      <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="48"/>
-      &ensp;
-      <img src="https://img.shields.io/badge/TanStack_Query-0D1117?style=flat-square&logo=reactquery&logoColor=58a6ff" height="48"/>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=58a6ff" />
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
