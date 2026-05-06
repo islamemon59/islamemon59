@@ -51,23 +51,25 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
 
 ## Tech Stack
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="180">
+    <td width="220" valign="top">
       <strong>Languages</strong>
+      <br/>
+      <sub>Core programming</sub>
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" />
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td width="220" valign="top">
       <strong>Frontend</strong>
+      <br/>
+      <sub>Modern UI development</sub>
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
       <br/><br/>
       <img src="https://img.shields.io/badge/shadcn%2Fui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" />
@@ -76,19 +78,23 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
   </tr>
 
   <tr>
-    <td align="center">
+    <td width="220" valign="top">
       <strong>UI Libraries</strong>
+      <br/>
+      <sub>Design systems</sub>
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://skillicons.dev/icons?i=materialui,bootstrap&theme=dark" />
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td width="220" valign="top">
       <strong>Backend</strong>
+      <br/>
+      <sub>APIs & server logic</sub>
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
       <br/><br/>
       <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=58a6ff" />
@@ -96,27 +102,29 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
   </tr>
 
   <tr>
-    <td align="center">
+    <td width="220" valign="top">
       <strong>Databases</strong>
+      <br/>
+      <sub>Relational & NoSQL</sub>
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark" />
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td width="220" valign="top">
       <strong>DevOps & Tools</strong>
+      <br/>
+      <sub>Deploy, versioning & workflow</sub>
     </td>
-    <td align="center">
+    <td valign="top">
       <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Stripe-0D1117?style=for-the-badge&logo=stripe&logoColor=58a6ff" />
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
