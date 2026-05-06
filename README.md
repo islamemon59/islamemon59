@@ -1,11 +1,19 @@
 <!-- ░░░░░░░░░░░░░░░░░░  BANNER  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:0D2137,100:0D1117&text=Emon%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer&descColor=58a6ff&descSize=20&descAlignY=65&stroke=58a6ff&strokeWidth=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=6&section=header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Docker+%C2%B7+Prisma" />
+  <img width="100%" src="https://github-socialify.git.ci/islamemon59/islamemon59?description=1&font=Source+Code+Pro&name=1&owner=1&pattern=Circuit+Board&theme=Dark&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fislamemon59" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=52&lines=Emon+Hossain" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1200&color=58a6ff&center=true&vCenter=true&width=640&height=28&lines=%3C%2F%3E+Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Docker" />
 </div>
 
 <br/>
@@ -56,58 +64,58 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
 
 <table>
   <tr>
-    <td align="center" width="130">
-      <b>Languages</b>
+    <td align="left" width="145">
+      <code>// Languages</code>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark&perline=8" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Frontend</b>
+    <td align="left">
+      <code>// Frontend</code>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=8" />
       &ensp;
       <img src="https://img.shields.io/badge/shadcn%2Fui-18181B?style=flat-square&logo=shadcnui&logoColor=white" height="48"/>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>UI Libraries</b>
+    <td align="left">
+      <code>// UI Libs</code>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=materialui,bootstrap&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=materialui,bootstrap&theme=dark&perline=8" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Backend</b>
+    <td align="left">
+      <code>// Backend</code>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=8" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Databases</b>
+    <td align="left">
+      <code>// Databases</code>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,firebase&theme=dark&perline=8" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>DevOps & Tools</b>
+    <td align="left">
+      <code>// DevOps</code>
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark&perline=6" />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,netlify&theme=dark&perline=8" />
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <b>Auth & Payments</b>
+    <td align="left">
+      <code>// Auth & Pay</code>
     </td>
     <td>
       <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff" height="48"/>
@@ -219,6 +227,20 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
 
 ---
 
+<!-- ░░░░░░░░░░░░░░░░░░  SNAKE  ░░░░░░░░░░░░░░░░░░ -->
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/islamemon59/islamemon59/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/islamemon59/islamemon59/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/islamemon59/islamemon59/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 <!-- ░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░ -->
 
 ## Achievements
@@ -238,5 +260,5 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:0D1117,50:0D2137,100:0D1117&section=footer&stroke=58a6ff&strokeWidth=1&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=6&section=footer" />
 </div>
