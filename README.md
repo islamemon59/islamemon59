@@ -1,12 +1,40 @@
-<!-- ░░░░░░░░░░░░░░░░░░  BANNER  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  PREMIUM DEV BANNER  ░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1f6feb,100:0D1117&height=190&section=header&text=EMON%20HOSSAIN&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descSize=15&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,30:111827,65:1f6feb,100:58a6ff&section=header&text=EMON%20HOSSAIN&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20Clean%20%26%20Scalable%20Web%20Products&descSize=16&descAlignY=58" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=%3C%2F%3E+Building+clean+and+scalable+web+products;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Prisma;Frontend+precision+%2B+Backend+architecture" />
+  <img width="100%" src="https://github-socialify.git.ci/islamemon59/islamemon59/image?custom_description=Crafting%20modern%20web%20apps%20with%20clean%20UI%2C%20scalable%20architecture%2C%20and%20developer-first%20thinking.&description=1&font=JetBrains+Mono&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=920&height=52&lines=%3E+npx+build-awesome-web-experiences;%3E+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Prisma;%3E+Clean+Frontend+%2B+Scalable+Backend+%2B+DX" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Focus-Clean%20Code-0D1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stack-TypeScript%20First-0D1117?style=for-the-badge&logo=typescript&logoColor=58a6ff&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Frontend-React%20%26%20Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=58a6ff&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%26%20APIs-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff&labelColor=0D1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-islamemon59%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0D1117)](mailto:islamemon59@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emonislam59-0D1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0D1117)](https://www.linkedin.com/in/emonislam59)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0D1117)](https://portfolio-of-emon-hossain.netlify.app/)
+[![Profile Views](https://komarev.com/ghpvc/?username=islamemon59&style=for-the-badge&color=58a6ff&label=Profile+Views&labelColor=0D1117)](https://github.com/islamemon59)
+
+</div>
+
+---
 
 <br/>
 
