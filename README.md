@@ -145,8 +145,8 @@ Currently deep in building a full-scale parcel delivery platform with dynamic pr
       <img src="https://img.shields.io/badge/Stripe-0D1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="28"/>
       <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=58a6ff" height="28"/>
       <br/><br/>
-      <a href="https://github.com/islamemon59/parcel-delivery-client">Client Repo</a> &nbsp;·&nbsp;
-      <a href="https://github.com/islamemon59/parcel-delivery-server">Server Repo</a>
+      <a href="https://github.com/islamemon59/employee-management-system-client">Client Repo</a> &nbsp;·&nbsp;
+      <a href="https://github.com/islamemon59/employee-management-system-server">Server Repo</a>
     </td>
     <td valign="top" width="50%">
       <h3>HelpNest &nbsp;<a href="https://help-nest-service-provider.netlify.app/"><img src="https://img.shields.io/badge/Live-0D1117?style=flat-square&logo=netlify&logoColor=3fb950" height="18"/></a></h3>
